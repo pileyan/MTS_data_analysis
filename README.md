@@ -29,3 +29,8 @@
 
 [ДЗ3](https://github.com/pileyan/MTS_data_analysis/tree/main/hw3) Срок - 14 октября. Сдача по [ссылке](https://www.dropbox.com/request/d8DDxrHwSUXjtNwd5BLD)
 
+[ДЗ4](https://github.com/pileyan/MTS_data_analysis/tree/main/hw4) Срок - 27 октября. Сдача по [ссылке](https://www.dropbox.com/request/CmnxzbWZhVToJrOd3Ljj) – Тут дедлайн прям строгий. прямо правда строгий.
+
+
+# [Оценки](https://docs.google.com/spreadsheets/d/1uYvVVGg8I5VVM2kFvqUClVEm39VX5pexNZX_qnStNpE/edit?usp=sharing) за ДЗ
+
